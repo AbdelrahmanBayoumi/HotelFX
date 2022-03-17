@@ -7,16 +7,27 @@
 
 ## Getting Started
 
-1- Install  [XAMMP](https://www.apachefriends.org/index.html) for MySQL server.
+### Requirements
+1. [Oracle JDK 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
+2. [XAMMP](https://www.apachefriends.org/index.html) for MySQL server.
+  
+    - [Tutorial: How To Install](https://youtu.be/N43oVPkrTg8)
+3. [NetBeans IDE](https://netbeans.apache.org/)
 
-2- Import [hotel.sql](/hotel.sql) to import the database.
 
-3- Run the Program using [Project.java](/src/project/Project.java).
+### How to run
+
+1. Open XAMMP control panel, then start `Apache` & `MySQL` services
+
+2. Import [hotel.sql](/hotel.sql) to import the database.
+
+    - [How to Import .sql file to Database](https://youtu.be/GHSis3KwnkM)
+
+3. Run the Program using [Project.java](/src/project/Project.java).
 
 
 ## Demos
 
------
 
 <div align="center">
   <h2>Overview</h2>
