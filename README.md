@@ -9,6 +9,8 @@
 
 ### Requirements
 1. [Oracle JDK 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
+    
+    - [Download and install Tutorial](https://youtu.be/XsdvQD_SDvw)
 2. [XAMMP](https://www.apachefriends.org/index.html) for MySQL server.
   
     - [Tutorial: How To Install](https://youtu.be/N43oVPkrTg8)
